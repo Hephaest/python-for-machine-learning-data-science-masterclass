@@ -1,2 +1,2 @@
-# Python For Machine Learning and Data Science
+# Python For Machine Learning
 
